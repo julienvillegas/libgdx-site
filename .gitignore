@@ -15,3 +15,6 @@ cached-versions-snapshot
 src/main/webapp/skin-previews/
 src/main/webapp/documentation/
 src/main/webapp/libgdx-skins-dist/
+gamedb/
+.vscode/
+/bin/
