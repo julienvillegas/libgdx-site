@@ -121,6 +121,9 @@ HTML
 ./gradlew tests:gdx-tests-gwt:superDev
 ```
 
+Then you can run the tests through the following URL in your browser: 
+http://127.0.0.1:8080/index.html
+
 <hr><br>
 
 ## Importing into Eclipse
